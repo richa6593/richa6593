@@ -1,4 +1,7 @@
 ## Hi there 👋
+🔭 I’m currently working on Commvault Backup technology 
+🌱 I’m currently learning Devops
+
 
 <!--
 **richa6593/richa6593** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
