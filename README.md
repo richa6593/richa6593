@@ -1,6 +1,5 @@
 ## Hi there 👋
-🔭 I’m currently working on Commvault Backup technology 
-🌱 I’m currently learning Devops
+Diving deep into the world of backup and storage technologies, I bring a cloud-savvy perspective to my projects. 🚀 With hands-on experience in Ansible, Git, Jenkins, and Docker, I'm all about streamlining workflows and enhancing efficiency. Currently, I’m sharpening my skills in Python to unlock new automation possibilities. Let's innovate together! 💻✨
 
 
 <!--
